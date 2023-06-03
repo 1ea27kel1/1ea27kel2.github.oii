@@ -1,0 +1,66 @@
+<html>
+<head>
+<title>LIST PADA HTML</title>
+</head>
+<body>
+<!--Mencoba list pada html-->
+<b><dl>LIST DEFINISI KELOMPOK 1 EA27
+<dt>Kelompok Berbakat</dt>
+<dd>Kelompok 1 EA 27 adalah kelompok anak-anak berbakat</dd>
+<dt>Kelompok Baik Hati</dt>
+<dd>Kelompok 1 EA27 dijamin semuanya baik hati ;)</dd>
+</dl>
+<p>NESTED LIST ANGGOTA 1 EA27
+<ul type="disc">
+<li>Muhammad Ikbar Ramadhan</li>
+		<ul><li>Orang Aneh</li>
+		<li>Suka Budmud</li>
+		<li>Pinter Kadang</li></ul>
+<li>Muhammad Alfin Pratama</li>
+		<ul><li>So Cool</li>
+		<li>Marah Mulu</li>
+		<li>Gajelas</li></ul>
+<li>Ghifary Akmal Primastawan</li>
+		<ul><li>Konyol</li>
+		<li>Bawel</li>
+		<li>Naks Puunk</li></ul>
+<li>Damar Faisal Alfaridzi</li>
+		<ul><li>Diem Bae</li>
+		<li>Duta Ranked</li>
+		<li>Penghuni Neraka</li></ul>
+<li>Rifki Septian Nurabani</li>
+		<ul><li>Lebih Aneh</li>
+		<li>Konyol</li>
+		<li>BA Bocah Aneh</li></ul>
+<li>Rafif Abhi Rama</li>
+		<ul><li>Ketua Geng</li>
+		<li>Asik nih</li>
+		<li>Healing Team</li></ul>
+</ul>
+Ikbar 
+<ol><li>Nama Lengkap	: Muhammad Ikbar Ramadhan</li>
+    <li>N P M 		: 11222234</li>
+    <li>Alamat Email    : muhammadikbarramadhan@gmail.com</li></ol>
+alpin
+<ol type="I"><li>Nama Lengkap	: Muhammad Alfin Pratama</li>
+    <li>N P M 		: 11222181</li>
+    <li>Alamat Email    : muhammadalfin380@gmail.com</li></ol>
+akmal
+<ol type="i"><li>Nama Lengkap	: Ghifary Akmal Primastawan</li>
+    <li>N P M 		: 10222782</li>
+    <li>Alamat Email    : Ghifaryakmal280@gmail.com</li></ol>
+Rafif
+<ol type="a"><li>Nama Lengkap	: Rafif Abhi Rama</li>
+    <li>N P M 		: 11222559</li>
+    <li>Alamat Email    : ramarafif15@gmail.com</li></ol>
+Rifki
+<ol type="A"><li>Nama Lengkap	: Rifki Septian Nurabani</li>
+    <li>N P M 		: 11222675</li>
+    <li>Alamat Email    : rifqiseptian25@gmail.com</li></ol>
+Kage 6
+<ol><li>Nama Lengkap	: Damar Faisal Alfaridzi</li>
+    <li>N P M 		: 10222484</li>
+    <li>Alamat Email    : damarfaisal217@gmail.com</li></ol>
+</b>
+</body>
+</html>
